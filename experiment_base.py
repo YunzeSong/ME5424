@@ -214,5 +214,5 @@ if __name__ == "__main__":
     plt.title("Total Cost by Algorithm (Run 1)")
     plt.ylabel("Total Distance Cost")
     plt.tight_layout()
-    plt.savefig("cost_comparison.png")
+    plt.savefig("results/cost_comparison.png")
     print("Cost comparison chart saved as cost_comparison.png")

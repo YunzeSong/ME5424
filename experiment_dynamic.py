@@ -216,7 +216,7 @@ def main():
         
         plt.suptitle(f"Dynamic Task Flow - {freq_name} Publishing")
         plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-        plt.savefig(f"experiment_dynamic_{freq_name}.pdf")
+        plt.savefig(f"results/experiment_dynamic_{freq_name}.pdf")
         plt.close()
     
     # 输出汇总表

@@ -197,7 +197,7 @@ def main():
         
         plt.suptitle(f"Static Task Assignment - {scenario_name} Scenario")
         plt.tight_layout(rect=[0, 0.03, 1, 0.95])
-        plt.savefig(f"experiment_static_{scenario_name}.pdf")
+        plt.savefig(f"results/experiment_static_{scenario_name}.pdf")
         plt.close()
     
     # 输出实验汇总表
