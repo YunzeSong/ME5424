@@ -1,0 +1,170 @@
+{
+    "Normal": {
+        "Hungarian": {
+            "total_cost": "1313 \u00b1 109",
+            "complete_rate": "0.8905 \u00b1 0.0477",
+            "avg_delay": "4.95 \u00b1 1.39",
+            "comp_time": "0.0001002 \u00b1 0.0000246",
+            "messages": "0 \u00b1 0",
+            "fairness": "1.414 \u00b1 0.219"
+        },
+        "Auction": {
+            "total_cost": "1147.1 \u00b1 71.7",
+            "complete_rate": "0.652 \u00b1 0.0448",
+            "avg_delay": "9.55 \u00b1 1.7",
+            "comp_time": "0.000563 \u00b1 0.00013",
+            "messages": "512 \u00b1 100",
+            "fairness": "1.026 \u00b1 0.257"
+        },
+        "CBBA": {
+            "total_cost": "1069.4 \u00b1 85.7",
+            "complete_rate": "0.68 \u00b1 0.0509",
+            "avg_delay": "5.57 \u00b1 1.2",
+            "comp_time": "0.0001166 \u00b1 0.0000208",
+            "messages": "303.2 \u00b1 29",
+            "fairness": "0.932 \u00b1 0.146"
+        },
+        "DBBA": {
+            "total_cost": "1196.3 \u00b1 63.8",
+            "complete_rate": "0.676 \u00b1 0.0484",
+            "avg_delay": "9.09 \u00b1 2.09",
+            "comp_time": "0.0005737 \u00b1 0.000098",
+            "messages": "63.55 \u00b1 8.81",
+            "fairness": "1.073 \u00b1 0.153"
+        },
+        "RL": {
+            "total_cost": "1155 \u00b1 120",
+            "complete_rate": "0.4705 \u00b1 0.032",
+            "avg_delay": "11.3 \u00b1 2.06",
+            "comp_time": "0.000007157 \u00b1 0.000000604",
+            "messages": "0 \u00b1 0",
+            "fairness": "0.744 \u00b1 0.139"
+        }
+    },
+    "Surge": {
+        "Hungarian": {
+            "total_cost": "1364.8 \u00b1 99.6",
+            "complete_rate": "0.7823 \u00b1 0.048",
+            "avg_delay": "12.05 \u00b1 1.36",
+            "comp_time": "0.0002814 \u00b1 0.0000253",
+            "messages": "0 \u00b1 0",
+            "fairness": "2.041 \u00b1 0.28"
+        },
+        "Auction": {
+            "total_cost": "1248.2 \u00b1 85.1",
+            "complete_rate": "0.524 \u00b1 0.048",
+            "avg_delay": "14.51 \u00b1 1.59",
+            "comp_time": "0.000621 \u00b1 0.000155",
+            "messages": "481.8 \u00b1 59.1",
+            "fairness": "1.464 \u00b1 0.181"
+        },
+        "CBBA": {
+            "total_cost": "1197.5 \u00b1 91.1",
+            "complete_rate": "0.612 \u00b1 0.0473",
+            "avg_delay": "12.33 \u00b1 1.69",
+            "comp_time": "0.0002705 \u00b1 0.0000251",
+            "messages": "336.9 \u00b1 49.1",
+            "fairness": "1.632 \u00b1 0.217"
+        },
+        "DBBA": {
+            "total_cost": "1260.1 \u00b1 69.4",
+            "complete_rate": "0.5317 \u00b1 0.046",
+            "avg_delay": "14.41 \u00b1 1.57",
+            "comp_time": "0.0006273 \u00b1 0.0000643",
+            "messages": "69.8 \u00b1 10.3",
+            "fairness": "1.492 \u00b1 0.211"
+        },
+        "RL": {
+            "total_cost": "1171 \u00b1 127",
+            "complete_rate": "0.317 \u00b1 0.0232",
+            "avg_delay": "11.18 \u00b1 1.52",
+            "comp_time": "0.000011204 \u00b1 0.00000092",
+            "messages": "0 \u00b1 0",
+            "fairness": "0.677 \u00b1 0.13"
+        }
+    },
+    "Failure": {
+        "Hungarian": {
+            "total_cost": "929 \u00b1 109",
+            "complete_rate": "0.901 \u00b1 0.0352",
+            "avg_delay": "6.5 \u00b1 1.08",
+            "comp_time": "0.0000865 \u00b1 0.0000124",
+            "messages": "0 \u00b1 0",
+            "fairness": "1.302 \u00b1 0.247"
+        },
+        "Auction": {
+            "total_cost": "755 \u00b1 101",
+            "complete_rate": "0.6155 \u00b1 0.045",
+            "avg_delay": "11.12 \u00b1 2.02",
+            "comp_time": "0.0004648 \u00b1 0.0000968",
+            "messages": "405.6 \u00b1 96.1",
+            "fairness": "0.928 \u00b1 0.13"
+        },
+        "CBBA": {
+            "total_cost": "725 \u00b1 113",
+            "complete_rate": "0.623 \u00b1 0.0462",
+            "avg_delay": "7.99 \u00b1 1.36",
+            "comp_time": "0.0001029 \u00b1 0.000015",
+            "messages": "192 \u00b1 16.4",
+            "fairness": "0.941 \u00b1 0.149"
+        },
+        "DBBA": {
+            "total_cost": "765 \u00b1 116",
+            "complete_rate": "0.643 \u00b1 0.0605",
+            "avg_delay": "10.64 \u00b1 1.63",
+            "comp_time": "0.0005035 \u00b1 0.0000823",
+            "messages": "54.95 \u00b1 6.92",
+            "fairness": "0.937 \u00b1 0.203"
+        },
+        "RL": {
+            "total_cost": "765 \u00b1 174",
+            "complete_rate": "0.465 \u00b1 0.0291",
+            "avg_delay": "11.83 \u00b1 2.04",
+            "comp_time": "0.00000617 \u00b1 0.000000379",
+            "messages": "0 \u00b1 0",
+            "fairness": "0.664 \u00b1 0.131"
+        }
+    },
+    "Combined": {
+        "Hungarian": {
+            "total_cost": "866.1 \u00b1 98",
+            "complete_rate": "0.737 \u00b1 0.0549",
+            "avg_delay": "12.57 \u00b1 1.19",
+            "comp_time": "0.000276 \u00b1 0.0000271",
+            "messages": "0 \u00b1 0",
+            "fairness": "1.725 \u00b1 0.283"
+        },
+        "Auction": {
+            "total_cost": "703.8 \u00b1 95.4",
+            "complete_rate": "0.496 \u00b1 0.0449",
+            "avg_delay": "13.85 \u00b1 2.02",
+            "comp_time": "0.0005495 \u00b1 0.0000772",
+            "messages": "404.1 \u00b1 78.4",
+            "fairness": "1.338 \u00b1 0.209"
+        },
+        "CBBA": {
+            "total_cost": "819 \u00b1 111",
+            "complete_rate": "0.5637 \u00b1 0.0419",
+            "avg_delay": "13.91 \u00b1 1.72",
+            "comp_time": "0.0002583 \u00b1 0.0000263",
+            "messages": "215.7 \u00b1 22.1",
+            "fairness": "1.522 \u00b1 0.175"
+        },
+        "DBBA": {
+            "total_cost": "788 \u00b1 149",
+            "complete_rate": "0.5027 \u00b1 0.0374",
+            "avg_delay": "14.36 \u00b1 1.26",
+            "comp_time": "0.0005747 \u00b1 0.0000483",
+            "messages": "62.15 \u00b1 9.7",
+            "fairness": "1.431 \u00b1 0.213"
+        },
+        "RL": {
+            "total_cost": "772.5 \u00b1 90.2",
+            "complete_rate": "0.3097 \u00b1 0.0158",
+            "avg_delay": "11.47 \u00b1 1.75",
+            "comp_time": "0.00000936 \u00b1 0.00000112",
+            "messages": "0 \u00b1 0",
+            "fairness": "0.683 \u00b1 0.115"
+        }
+    }
+}

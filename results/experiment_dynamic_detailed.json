@@ -1,0 +1,3638 @@
+{
+    "Slow": {
+        "Hungarian": [
+            {
+                "total_cost": 314.5716957830203,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010347366333007812,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 267.5176623138407,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010879039764404297,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 275.51417874595205,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010805130004882812,
+                "messages": 0,
+                "fairness": 1.1751393027860064
+            },
+            {
+                "total_cost": 257.8755505854569,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010895729064941406,
+                "messages": 0,
+                "fairness": 1.1751393027860064
+            },
+            {
+                "total_cost": 287.8020986329291,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010697841644287109,
+                "messages": 0,
+                "fairness": 1.2344267996967353
+            },
+            {
+                "total_cost": 349.41141077116015,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001026153564453125,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 168.54009076715454,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011632442474365234,
+                "messages": 0,
+                "fairness": 0.8997354108424375
+            },
+            {
+                "total_cost": 296.4140588720209,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010607242584228515,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 290.44370293381724,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010588169097900391,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 207.06192429124272,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011229515075683594,
+                "messages": 0,
+                "fairness": 1.2909944487358056
+            },
+            {
+                "total_cost": 248.62002548491398,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010797977447509765,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 273.8443295411318,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010738372802734374,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 285.70116131171574,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001071929931640625,
+                "messages": 0,
+                "fairness": 1.1751393027860064
+            },
+            {
+                "total_cost": 304.4062536128596,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011234283447265625,
+                "messages": 0,
+                "fairness": 1.2909944487358056
+            },
+            {
+                "total_cost": 242.68375984920493,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010972023010253906,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 284.1228659761647,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010764598846435547,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 263.60013370051684,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011661052703857422,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 248.17688621290293,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001089334487915039,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 279.71808813318756,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010886192321777344,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 298.8857318738283,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010769367218017578,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 184.83713092711457,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011639595031738281,
+                "messages": 0,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 224.69650865874607,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011115074157714843,
+                "messages": 0,
+                "fairness": 1.1751393027860062
+            },
+            {
+                "total_cost": 258.79535727600205,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011010169982910157,
+                "messages": 0,
+                "fairness": 1.2344267996967353
+            },
+            {
+                "total_cost": 210.63645869774754,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011541843414306641,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 227.46527620137667,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011734962463378906,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 296.51027811281375,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00010645389556884766,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 223.76752601091854,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011293888092041015,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 198.71490721540317,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011270046234130859,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 224.7677536526568,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011169910430908203,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 279.3232126827995,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011513233184814453,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            }
+        ],
+        "Auction": [
+            {
+                "total_cost": 458.83440824739284,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033733367919921873,
+                "messages": 1000,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 428.69956437943415,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033644437789916992,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 441.62471703104455,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003406071662902832,
+                "messages": 1000,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 350.73143229272694,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033451080322265624,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 400.31451495503524,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033741235733032227,
+                "messages": 1000,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 366.69533902425525,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033454179763793947,
+                "messages": 1000,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 436.5778685188358,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033605813980102537,
+                "messages": 1000,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 389.7701027585098,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003362274169921875,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 420.83816662511543,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033705949783325194,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 483.7984238624762,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003336668014526367,
+                "messages": 1000,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 460.64189415341536,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033682584762573242,
+                "messages": 1000,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 518.559263094469,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033509254455566405,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 389.4779972369512,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033588171005249023,
+                "messages": 1000,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 312.9312182629678,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003488016128540039,
+                "messages": 1000,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 458.86430752802033,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033560752868652343,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 431.8304389658381,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003334331512451172,
+                "messages": 1000,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 410.2665800557542,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033699750900268556,
+                "messages": 1000,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 503.6121923959758,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00335237979888916,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 374.56261830794676,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003411078453063965,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 478.12008241334576,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033415555953979492,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 351.58623448777416,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00336611270904541,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 343.2294690639661,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034999608993530273,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 430.7137696437167,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034183502197265626,
+                "messages": 1000,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 397.2998346429257,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003368377685546875,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 473.1759295478721,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033661365509033204,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 258.8435848170976,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003553438186645508,
+                "messages": 1000,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 522.3031659964305,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034151077270507812,
+                "messages": 1000,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 435.50179597447845,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033321142196655273,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 420.7059003333157,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033418893814086913,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 417.43172926791965,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003449845314025879,
+                "messages": 1000,
+                "fairness": 0.6172133998483676
+            }
+        ],
+        "CBBA": [
+            {
+                "total_cost": 249.99060951070635,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013265609741210937,
+                "messages": 233,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 312.2442845727297,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00012738704681396483,
+                "messages": 228,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 249.40911744967312,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013408660888671874,
+                "messages": 242,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 211.77701446454464,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013930797576904296,
+                "messages": 250,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 230.91826752945377,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013885498046875,
+                "messages": 250,
+                "fairness": 1.2909944487358056
+            },
+            {
+                "total_cost": 214.37755185512955,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013515949249267578,
+                "messages": 248,
+                "fairness": 1.1751393027860062
+            },
+            {
+                "total_cost": 304.17537741916857,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00012819766998291017,
+                "messages": 231,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 277.3838426482522,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001314401626586914,
+                "messages": 234,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 268.74756374203486,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013353824615478516,
+                "messages": 242,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 205.78586450275384,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013911724090576172,
+                "messages": 252,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 222.64943844995526,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013957023620605468,
+                "messages": 255,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 280.5496316340335,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013246536254882813,
+                "messages": 236,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 368.7717000318398,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00012280941009521485,
+                "messages": 217,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 272.22649666897365,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013275146484375,
+                "messages": 242,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 237.23511957098427,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013649463653564453,
+                "messages": 249,
+                "fairness": 1.2909944487358056
+            },
+            {
+                "total_cost": 248.06245199014438,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013215541839599608,
+                "messages": 240,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 211.52419472863588,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.000138092041015625,
+                "messages": 254,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 214.15871704138095,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013296604156494142,
+                "messages": 248,
+                "fairness": 1.2344267996967353
+            },
+            {
+                "total_cost": 225.86257709695383,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00014896392822265624,
+                "messages": 251,
+                "fairness": 1.1751393027860064
+            },
+            {
+                "total_cost": 211.4106774901488,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013442039489746093,
+                "messages": 243,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 197.34213590008943,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001416444778442383,
+                "messages": 256,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 263.9590815901954,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013480186462402343,
+                "messages": 240,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 313.7811932179053,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013296604156494142,
+                "messages": 234,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 162.3507099083434,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00014367103576660157,
+                "messages": 260,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 253.7270856218315,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001386404037475586,
+                "messages": 249,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 240.54444816112758,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013201236724853517,
+                "messages": 242,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 191.1825940354621,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00014293193817138672,
+                "messages": 254,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 217.93500412894025,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00013322830200195311,
+                "messages": 240,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 294.9214020185328,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0001254558563232422,
+                "messages": 228,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 381.40683251054037,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00011839866638183594,
+                "messages": 216,
+                "fairness": 0.816496580927726
+            }
+        ],
+        "DBBA": [
+            {
+                "total_cost": 398.31847687392576,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003419232368469238,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 329.20243662318336,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034225940704345702,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 440.3247811662209,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033841848373413084,
+                "messages": 10,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 429.41350879649815,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003363513946533203,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 392.2565685133559,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033892154693603515,
+                "messages": 10,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 403.8807916994864,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003485870361328125,
+                "messages": 10,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 561.8324024609201,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034232378005981446,
+                "messages": 10,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 313.09508835669453,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033700227737426757,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 431.7688622195862,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.004009819030761719,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 464.30453135593547,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033793926239013674,
+                "messages": 10,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 394.886444395647,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003410196304321289,
+                "messages": 10,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 378.36373035037224,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.005861496925354004,
+                "messages": 10,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 305.20204030346054,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00341188907623291,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 378.2590707656533,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003392314910888672,
+                "messages": 10,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 332.4807713529817,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033908843994140624,
+                "messages": 10,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 413.472023947303,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0035068750381469726,
+                "messages": 10,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 451.07755567657443,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003402304649353027,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 430.3615898008166,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003384304046630859,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 355.2745621446442,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003428363800048828,
+                "messages": 10,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 475.7071404691494,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033774614334106446,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 238.66484941000834,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.00338129997253418,
+                "messages": 10,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 426.49564980093663,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034166812896728516,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 408.997849384505,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034276247024536133,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 365.8737710910669,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0035462379455566406,
+                "messages": 10,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 397.49661522325715,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.003382420539855957,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 362.238292428659,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033933639526367186,
+                "messages": 10,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 358.0785965559643,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0034388303756713867,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 381.63636413345984,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033762216567993163,
+                "messages": 10,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 322.1406156191797,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033876895904541016,
+                "messages": 10,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 498.7717704744656,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 0.0033695220947265623,
+                "messages": 10,
+                "fairness": 0.9759000729485332
+            }
+        ],
+        "RL": [
+            {
+                "total_cost": 372.7408678279432,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 479.2840515496805,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.243850708007813e-06,
+                "messages": 0,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 434.9542285997768,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.267692565917968e-06,
+                "messages": 0,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 301.25959029224003,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.172325134277344e-06,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 441.44569398874563,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.410743713378906e-06,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 479.55842951372006,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 7.152557373046875e-06,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 504.4918074560562,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.458427429199219e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 621.689474399201,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.220008850097656e-06,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 463.7863798859992,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 209.64862800721454,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.506111145019531e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 360.8527927571158,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 309.3918538345504,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.339218139648437e-06,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 470.33709692384497,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.601478576660156e-06,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 264.0862059044236,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 5.0067901611328125e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 310.6452826746532,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 395.8871975613285,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 5.078315734863281e-06,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 327.48042453372045,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.410743713378906e-06,
+                "messages": 0,
+                "fairness": 1.1751393027860064
+            },
+            {
+                "total_cost": 336.73349821163964,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 410.4835895627926,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.506111145019531e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 417.1040209215432,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.339218139648437e-06,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 407.8171578669487,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.458427429199219e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 406.46425000745353,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.57763671875e-06,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 494.5764562880201,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 5.459785461425781e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 453.2290447963992,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.649162292480469e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 388.56081940942477,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.291534423828125e-06,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 381.65456158585596,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 5.769729614257812e-06,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 313.45567701512056,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.434585571289063e-06,
+                "messages": 0,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 418.7744338549131,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.315376281738282e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 456.3097066405217,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.363059997558594e-06,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 459.9534300695051,
+                "complete_rate": 1.0,
+                "avg_delay": 0.0,
+                "comp_time": 4.410743713378906e-06,
+                "messages": 0,
+                "fairness": 0.9759000729485332
+            }
+        ]
+    },
+    "Medium": {
+        "Hungarian": [
+            {
+                "total_cost": 1215.856200962875,
+                "complete_rate": 0.79,
+                "avg_delay": 11.227848101265822,
+                "comp_time": 0.00014357566833496095,
+                "messages": 0,
+                "fairness": 1.9444671200491874
+            },
+            {
+                "total_cost": 1127.0984153679096,
+                "complete_rate": 0.76,
+                "avg_delay": 10.092105263157896,
+                "comp_time": 0.00012161565381427143,
+                "messages": 0,
+                "fairness": 1.6676187756655838
+            },
+            {
+                "total_cost": 1203.2956272740607,
+                "complete_rate": 0.83,
+                "avg_delay": 10.53012048192771,
+                "comp_time": 0.00011231422424316406,
+                "messages": 0,
+                "fairness": 1.88477610139267
+            },
+            {
+                "total_cost": 1190.864737753916,
+                "complete_rate": 0.82,
+                "avg_delay": 9.926829268292684,
+                "comp_time": 0.00011900638012175865,
+                "messages": 0,
+                "fairness": 1.5522640914238175
+            },
+            {
+                "total_cost": 1056.9008787259984,
+                "complete_rate": 0.73,
+                "avg_delay": 10.41095890410959,
+                "comp_time": 0.00011110847646539861,
+                "messages": 0,
+                "fairness": 1.88477610139267
+            },
+            {
+                "total_cost": 1178.9768726837833,
+                "complete_rate": 0.82,
+                "avg_delay": 12.21951219512195,
+                "comp_time": 0.00010610076616395195,
+                "messages": 0,
+                "fairness": 1.3020130933435712
+            },
+            {
+                "total_cost": 1083.3118865705303,
+                "complete_rate": 0.73,
+                "avg_delay": 9.520547945205479,
+                "comp_time": 0.00011092860524247332,
+                "messages": 0,
+                "fairness": 1.4074631010979937
+            },
+            {
+                "total_cost": 1158.086230882425,
+                "complete_rate": 0.8,
+                "avg_delay": 10.7375,
+                "comp_time": 0.00012371214953335848,
+                "messages": 0,
+                "fairness": 1.1751393027860062
+            },
+            {
+                "total_cost": 1152.508146813151,
+                "complete_rate": 0.84,
+                "avg_delay": 11.928571428571429,
+                "comp_time": 0.0001321599838581491,
+                "messages": 0,
+                "fairness": 1.5491933384829668
+            },
+            {
+                "total_cost": 1144.4912783521254,
+                "complete_rate": 0.76,
+                "avg_delay": 10.710526315789474,
+                "comp_time": 0.00011667880144986239,
+                "messages": 0,
+                "fairness": 1.2798809468443688
+            },
+            {
+                "total_cost": 1106.5866471846653,
+                "complete_rate": 0.81,
+                "avg_delay": 10.074074074074074,
+                "comp_time": 0.0001028825839360555,
+                "messages": 0,
+                "fairness": 1.6388149028228556
+            },
+            {
+                "total_cost": 1116.0109037923821,
+                "complete_rate": 0.76,
+                "avg_delay": 10.43421052631579,
+                "comp_time": 0.00012763871086968317,
+                "messages": 0,
+                "fairness": 1.3870146083619754
+            },
+            {
+                "total_cost": 1210.8853539681147,
+                "complete_rate": 0.87,
+                "avg_delay": 10.379310344827585,
+                "comp_time": 0.00010535402118035083,
+                "messages": 0,
+                "fairness": 1.424279266355945
+            },
+            {
+                "total_cost": 1165.9997080595865,
+                "complete_rate": 0.82,
+                "avg_delay": 10.75609756097561,
+                "comp_time": 0.00011570599614357461,
+                "messages": 0,
+                "fairness": 1.8073922282301278
+            },
+            {
+                "total_cost": 1183.085927957013,
+                "complete_rate": 0.85,
+                "avg_delay": 10.023529411764706,
+                "comp_time": 9.65065426296658e-05,
+                "messages": 0,
+                "fairness": 1.3451854182690985
+            },
+            {
+                "total_cost": 1178.490642444614,
+                "complete_rate": 0.81,
+                "avg_delay": 11.135802469135802,
+                "comp_time": 0.00010728836059570312,
+                "messages": 0,
+                "fairness": 1.4540583599999397
+            },
+            {
+                "total_cost": 1172.3974139756094,
+                "complete_rate": 0.78,
+                "avg_delay": 12.384615384615385,
+                "comp_time": 0.00012003382047017415,
+                "messages": 0,
+                "fairness": 1.8593393604027366
+            },
+            {
+                "total_cost": 1091.7568696401108,
+                "complete_rate": 0.77,
+                "avg_delay": 6.987012987012987,
+                "comp_time": 9.892880916595459e-05,
+                "messages": 0,
+                "fairness": 1.8464895909600492
+            },
+            {
+                "total_cost": 1137.828944796045,
+                "complete_rate": 0.81,
+                "avg_delay": 10.716049382716049,
+                "comp_time": 0.0001201629638671875,
+                "messages": 0,
+                "fairness": 1.6818357317441643
+            },
+            {
+                "total_cost": 1154.5997199235844,
+                "complete_rate": 0.86,
+                "avg_delay": 7.255813953488372,
+                "comp_time": 8.571606415968675e-05,
+                "messages": 0,
+                "fairness": 1.4375905768565216
+            },
+            {
+                "total_cost": 1118.881886868885,
+                "complete_rate": 0.81,
+                "avg_delay": 6.580246913580247,
+                "comp_time": 9.347995122273763e-05,
+                "messages": 0,
+                "fairness": 1.121223821162776
+            },
+            {
+                "total_cost": 1176.410783091561,
+                "complete_rate": 0.86,
+                "avg_delay": 10.918604651162791,
+                "comp_time": 0.00010811552709462691,
+                "messages": 0,
+                "fairness": 1.6676187756655838
+            },
+            {
+                "total_cost": 1117.6678731402646,
+                "complete_rate": 0.81,
+                "avg_delay": 10.049382716049383,
+                "comp_time": 0.00011212267774216672,
+                "messages": 0,
+                "fairness": 2.32379000772445
+            },
+            {
+                "total_cost": 1178.438637779266,
+                "complete_rate": 0.82,
+                "avg_delay": 6.963414634146342,
+                "comp_time": 0.00012899041175842285,
+                "messages": 0,
+                "fairness": 1.4074631010979937
+            },
+            {
+                "total_cost": 1029.8361322040942,
+                "complete_rate": 0.82,
+                "avg_delay": 8.987804878048781,
+                "comp_time": 0.00017188489437103271,
+                "messages": 0,
+                "fairness": 1.995232412766087
+            },
+            {
+                "total_cost": 1120.8128554082543,
+                "complete_rate": 0.84,
+                "avg_delay": 10.333333333333334,
+                "comp_time": 9.78994369506836e-05,
+                "messages": 0,
+                "fairness": 1.8439088914585775
+            },
+            {
+                "total_cost": 1100.150324113304,
+                "complete_rate": 0.75,
+                "avg_delay": 8.053333333333333,
+                "comp_time": 0.00010264438131581183,
+                "messages": 0,
+                "fairness": 1.4638501094227998
+            },
+            {
+                "total_cost": 1190.926668926279,
+                "complete_rate": 0.83,
+                "avg_delay": 10.626506024096386,
+                "comp_time": 0.00011030832926432292,
+                "messages": 0,
+                "fairness": 1.245945806357946
+            },
+            {
+                "total_cost": 1114.5320906107354,
+                "complete_rate": 0.8,
+                "avg_delay": 9.225,
+                "comp_time": 9.450133965939891e-05,
+                "messages": 0,
+                "fairness": 1.3972762620115438
+            },
+            {
+                "total_cost": 1159.017046618184,
+                "complete_rate": 0.84,
+                "avg_delay": 11.380952380952381,
+                "comp_time": 0.00011215311415652012,
+                "messages": 0,
+                "fairness": 1.0555973258234952
+            }
+        ],
+        "Auction": [
+            {
+                "total_cost": 824.9916276295762,
+                "complete_rate": 0.46,
+                "avg_delay": 12.282608695652174,
+                "comp_time": 0.0004978673211459456,
+                "messages": 332,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 783.0231162802198,
+                "complete_rate": 0.41,
+                "avg_delay": 16.70731707317073,
+                "comp_time": 0.0005979239940643311,
+                "messages": 327,
+                "fairness": 1.0997835284835873
+            },
+            {
+                "total_cost": 852.6804887305791,
+                "complete_rate": 0.5,
+                "avg_delay": 15.16,
+                "comp_time": 0.0004505409913904527,
+                "messages": 336,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 746.7220231512306,
+                "complete_rate": 0.48,
+                "avg_delay": 10.770833333333334,
+                "comp_time": 0.0004818280537923177,
+                "messages": 336,
+                "fairness": 0.9411239481143202
+            },
+            {
+                "total_cost": 867.9751029211953,
+                "complete_rate": 0.44,
+                "avg_delay": 17.15909090909091,
+                "comp_time": 0.0005675462576059195,
+                "messages": 330,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 935.2647930250345,
+                "complete_rate": 0.48,
+                "avg_delay": 16.166666666666668,
+                "comp_time": 0.0004870660843387727,
+                "messages": 333,
+                "fairness": 0.9411239481143202
+            },
+            {
+                "total_cost": 761.0612619714088,
+                "complete_rate": 0.4,
+                "avg_delay": 15.325,
+                "comp_time": 0.00048488119374150813,
+                "messages": 236,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 897.0584113104869,
+                "complete_rate": 0.55,
+                "avg_delay": 12.8,
+                "comp_time": 0.0003714561462402344,
+                "messages": 252,
+                "fairness": 1.3451854182690985
+            },
+            {
+                "total_cost": 919.7735596203339,
+                "complete_rate": 0.46,
+                "avg_delay": 16.956521739130434,
+                "comp_time": 0.0004241551671709333,
+                "messages": 238,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 865.0302584794133,
+                "complete_rate": 0.44,
+                "avg_delay": 16.84090909090909,
+                "comp_time": 0.0004419913658728966,
+                "messages": 237,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 877.4794000986949,
+                "complete_rate": 0.46,
+                "avg_delay": 14.521739130434783,
+                "comp_time": 0.0005450072111906829,
+                "messages": 337,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 749.1566437385618,
+                "complete_rate": 0.41,
+                "avg_delay": 13.390243902439025,
+                "comp_time": 0.00042978616861196665,
+                "messages": 234,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 960.6741619576828,
+                "complete_rate": 0.47,
+                "avg_delay": 18.574468085106382,
+                "comp_time": 0.0004934110949116368,
+                "messages": 332,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 1009.2299469503465,
+                "complete_rate": 0.47,
+                "avg_delay": 18.4468085106383,
+                "comp_time": 0.00054255553654262,
+                "messages": 335,
+                "fairness": 1.1254628677422756
+            },
+            {
+                "total_cost": 957.1657387476045,
+                "complete_rate": 0.44,
+                "avg_delay": 15.954545454545455,
+                "comp_time": 0.0005743217468261719,
+                "messages": 329,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 860.5838722440009,
+                "complete_rate": 0.43,
+                "avg_delay": 16.930232558139537,
+                "comp_time": 0.0003995577494303385,
+                "messages": 249,
+                "fairness": 0.990430401872025
+            },
+            {
+                "total_cost": 834.0928964808691,
+                "complete_rate": 0.46,
+                "avg_delay": 14.630434782608695,
+                "comp_time": 0.0005027918980039399,
+                "messages": 331,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 849.1164089001987,
+                "complete_rate": 0.51,
+                "avg_delay": 13.901960784313726,
+                "comp_time": 0.0005113503028606547,
+                "messages": 341,
+                "fairness": 1.1832159566199232
+            },
+            {
+                "total_cost": 937.6551659608934,
+                "complete_rate": 0.46,
+                "avg_delay": 17.52173913043478,
+                "comp_time": 0.0004152922794736665,
+                "messages": 244,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 919.4336052851064,
+                "complete_rate": 0.46,
+                "avg_delay": 18.0,
+                "comp_time": 0.0005184535322518185,
+                "messages": 332,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 1019.8305415964835,
+                "complete_rate": 0.52,
+                "avg_delay": 13.653846153846153,
+                "comp_time": 0.0005134151827904486,
+                "messages": 343,
+                "fairness": 1.245945806357946
+            },
+            {
+                "total_cost": 918.0514258225032,
+                "complete_rate": 0.49,
+                "avg_delay": 14.285714285714286,
+                "comp_time": 0.00047816768769294983,
+                "messages": 337,
+                "fairness": 1.2227992865708155
+            },
+            {
+                "total_cost": 829.8363548038856,
+                "complete_rate": 0.44,
+                "avg_delay": 16.477272727272727,
+                "comp_time": 0.000486143430074056,
+                "messages": 329,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 958.6739269978907,
+                "complete_rate": 0.46,
+                "avg_delay": 17.434782608695652,
+                "comp_time": 0.0003867995354437059,
+                "messages": 239,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 814.687435491933,
+                "complete_rate": 0.46,
+                "avg_delay": 13.608695652173912,
+                "comp_time": 0.00047998428344726564,
+                "messages": 331,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 752.2347080400345,
+                "complete_rate": 0.47,
+                "avg_delay": 14.446808510638299,
+                "comp_time": 0.000357992947101593,
+                "messages": 238,
+                "fairness": 1.1872336794093272
+            },
+            {
+                "total_cost": 869.3659739074086,
+                "complete_rate": 0.49,
+                "avg_delay": 14.122448979591837,
+                "comp_time": 0.00041419267654418945,
+                "messages": 241,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 866.33425635125,
+                "complete_rate": 0.51,
+                "avg_delay": 14.333333333333334,
+                "comp_time": 0.00043092833624945744,
+                "messages": 348,
+                "fairness": 0.9102589898327995
+            },
+            {
+                "total_cost": 616.6913634963992,
+                "complete_rate": 0.37,
+                "avg_delay": 12.81081081081081,
+                "comp_time": 0.0004251698652903239,
+                "messages": 228,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 808.8661708087697,
+                "complete_rate": 0.41,
+                "avg_delay": 16.951219512195124,
+                "comp_time": 0.00045885489537165716,
+                "messages": 258,
+                "fairness": 0.8837151016885368
+            }
+        ],
+        "CBBA": [
+            {
+                "total_cost": 706.8359591174759,
+                "complete_rate": 0.41,
+                "avg_delay": 11.317073170731707,
+                "comp_time": 0.00012886005899180537,
+                "messages": 162,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 827.2668184945754,
+                "complete_rate": 0.48,
+                "avg_delay": 11.458333333333334,
+                "comp_time": 0.00013065338134765625,
+                "messages": 162,
+                "fairness": 1.2649110640673518
+            },
+            {
+                "total_cost": 876.5575088068255,
+                "complete_rate": 0.51,
+                "avg_delay": 12.784313725490197,
+                "comp_time": 0.00012974585256268902,
+                "messages": 159,
+                "fairness": 1.2421180068162376
+            },
+            {
+                "total_cost": 982.7495882414436,
+                "complete_rate": 0.55,
+                "avg_delay": 11.763636363636364,
+                "comp_time": 0.0001273385940059539,
+                "messages": 157,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 906.453793249456,
+                "complete_rate": 0.4,
+                "avg_delay": 17.225,
+                "comp_time": 0.0001731940678187779,
+                "messages": 145,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 983.8516760961969,
+                "complete_rate": 0.51,
+                "avg_delay": 13.529411764705882,
+                "comp_time": 0.0001294201818005792,
+                "messages": 146,
+                "fairness": 1.1832159566199232
+            },
+            {
+                "total_cost": 779.0219300067035,
+                "complete_rate": 0.48,
+                "avg_delay": 6.854166666666667,
+                "comp_time": 0.00012598037719726562,
+                "messages": 158,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 788.7262312506139,
+                "complete_rate": 0.45,
+                "avg_delay": 9.155555555555555,
+                "comp_time": 0.0001220989227294922,
+                "messages": 138,
+                "fairness": 1.0690449676496976
+            },
+            {
+                "total_cost": 870.6947225460681,
+                "complete_rate": 0.5,
+                "avg_delay": 9.46,
+                "comp_time": 0.00010250460716985887,
+                "messages": 134,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 998.5932693718892,
+                "complete_rate": 0.5,
+                "avg_delay": 14.56,
+                "comp_time": 0.00012671947479248047,
+                "messages": 149,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 749.7552748189274,
+                "complete_rate": 0.42,
+                "avg_delay": 11.833333333333334,
+                "comp_time": 0.00012220382690429686,
+                "messages": 133,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 969.2489221376958,
+                "complete_rate": 0.48,
+                "avg_delay": 13.229166666666666,
+                "comp_time": 0.00015040680214210793,
+                "messages": 142,
+                "fairness": 0.8618916073713346
+            },
+            {
+                "total_cost": 894.1316179742564,
+                "complete_rate": 0.46,
+                "avg_delay": 13.673913043478262,
+                "comp_time": 0.00013376165319372107,
+                "messages": 142,
+                "fairness": 1.162919151265879
+            },
+            {
+                "total_cost": 933.773068694514,
+                "complete_rate": 0.46,
+                "avg_delay": 13.76086956521739,
+                "comp_time": 0.00014372055347149188,
+                "messages": 161,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 812.0771511562341,
+                "complete_rate": 0.45,
+                "avg_delay": 11.511111111111111,
+                "comp_time": 0.00011215039661952428,
+                "messages": 131,
+                "fairness": 0.8451542547285166
+            },
+            {
+                "total_cost": 855.077045843523,
+                "complete_rate": 0.49,
+                "avg_delay": 11.183673469387756,
+                "comp_time": 0.000119061305605132,
+                "messages": 156,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 775.9646076509202,
+                "complete_rate": 0.43,
+                "avg_delay": 11.116279069767442,
+                "comp_time": 0.00011852264404296875,
+                "messages": 139,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 993.772864167266,
+                "complete_rate": 0.49,
+                "avg_delay": 11.693877551020408,
+                "comp_time": 0.0001422475885461878,
+                "messages": 157,
+                "fairness": 1.0327955589886444
+            },
+            {
+                "total_cost": 835.0622025686705,
+                "complete_rate": 0.46,
+                "avg_delay": 11.608695652173912,
+                "comp_time": 0.00010736783345540364,
+                "messages": 140,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 825.1451813477179,
+                "complete_rate": 0.45,
+                "avg_delay": 11.311111111111112,
+                "comp_time": 0.00011336361920392071,
+                "messages": 135,
+                "fairness": 0.5345224838248488
+            },
+            {
+                "total_cost": 922.7160056274345,
+                "complete_rate": 0.46,
+                "avg_delay": 12.804347826086957,
+                "comp_time": 0.00014221668243408203,
+                "messages": 139,
+                "fairness": 0.5936168397046637
+            },
+            {
+                "total_cost": 932.0905756387376,
+                "complete_rate": 0.53,
+                "avg_delay": 10.226415094339623,
+                "comp_time": 0.0001104995608329773,
+                "messages": 154,
+                "fairness": 0.990430401872025
+            },
+            {
+                "total_cost": 827.586211777512,
+                "complete_rate": 0.5,
+                "avg_delay": 9.88,
+                "comp_time": 0.0001284159146822416,
+                "messages": 170,
+                "fairness": 1.1126972805283737
+            },
+            {
+                "total_cost": 1052.645109793578,
+                "complete_rate": 0.53,
+                "avg_delay": 15.660377358490566,
+                "comp_time": 0.00013436693133729878,
+                "messages": 150,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 953.1567367948418,
+                "complete_rate": 0.56,
+                "avg_delay": 11.714285714285714,
+                "comp_time": 0.00013870206372491243,
+                "messages": 157,
+                "fairness": 1.0997835284835873
+            },
+            {
+                "total_cost": 977.1515731067303,
+                "complete_rate": 0.44,
+                "avg_delay": 14.818181818181818,
+                "comp_time": 0.00015236781193659856,
+                "messages": 151,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 923.4109673003697,
+                "complete_rate": 0.44,
+                "avg_delay": 14.363636363636363,
+                "comp_time": 0.0001589679718017578,
+                "messages": 168,
+                "fairness": 1.0327955589886444
+            },
+            {
+                "total_cost": 869.7809914845218,
+                "complete_rate": 0.48,
+                "avg_delay": 12.833333333333334,
+                "comp_time": 0.00011703173319498698,
+                "messages": 143,
+                "fairness": 0.560611910581388
+            },
+            {
+                "total_cost": 1001.6887490527849,
+                "complete_rate": 0.5,
+                "avg_delay": 12.96,
+                "comp_time": 0.00012123584747314453,
+                "messages": 147,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 901.6212077660084,
+                "complete_rate": 0.44,
+                "avg_delay": 15.181818181818182,
+                "comp_time": 0.00015756358271059781,
+                "messages": 157,
+                "fairness": 0.9611501047232548
+            }
+        ],
+        "DBBA": [
+            {
+                "total_cost": 928.2955525225672,
+                "complete_rate": 0.47,
+                "avg_delay": 17.19148936170213,
+                "comp_time": 0.00041368603706359863,
+                "messages": 33,
+                "fairness": 1.1254628677422756
+            },
+            {
+                "total_cost": 1062.8030495137693,
+                "complete_rate": 0.47,
+                "avg_delay": 19.4468085106383,
+                "comp_time": 0.0005533695220947266,
+                "messages": 39,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 971.1293926148263,
+                "complete_rate": 0.46,
+                "avg_delay": 17.543478260869566,
+                "comp_time": 0.0006621709236731896,
+                "messages": 47,
+                "fairness": 0.5936168397046637
+            },
+            {
+                "total_cost": 911.8995894912504,
+                "complete_rate": 0.47,
+                "avg_delay": 17.80851063829787,
+                "comp_time": 0.0005658823868324017,
+                "messages": 39,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 948.1652105539988,
+                "complete_rate": 0.51,
+                "avg_delay": 16.274509803921568,
+                "comp_time": 0.000597827136516571,
+                "messages": 44,
+                "fairness": 1.0555973258234952
+            },
+            {
+                "total_cost": 893.0466756196779,
+                "complete_rate": 0.45,
+                "avg_delay": 18.133333333333333,
+                "comp_time": 0.00041950902631205896,
+                "messages": 33,
+                "fairness": 0.9258200997725514
+            },
+            {
+                "total_cost": 781.3938703084796,
+                "complete_rate": 0.49,
+                "avg_delay": 12.061224489795919,
+                "comp_time": 0.0006665065884590149,
+                "messages": 37,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 921.6076198218099,
+                "complete_rate": 0.44,
+                "avg_delay": 15.886363636363637,
+                "comp_time": 0.0005390972926698882,
+                "messages": 34,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 918.9932941864188,
+                "complete_rate": 0.47,
+                "avg_delay": 16.97872340425532,
+                "comp_time": 0.00045675890786307197,
+                "messages": 41,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 928.5203114643626,
+                "complete_rate": 0.46,
+                "avg_delay": 14.26086956521739,
+                "comp_time": 0.00041369348764419556,
+                "messages": 33,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 986.7383639072876,
+                "complete_rate": 0.49,
+                "avg_delay": 17.897959183673468,
+                "comp_time": 0.0004178062081336975,
+                "messages": 38,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 1031.6954726770607,
+                "complete_rate": 0.49,
+                "avg_delay": 19.73469387755102,
+                "comp_time": 0.0004399906505237926,
+                "messages": 37,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 972.334577119881,
+                "complete_rate": 0.46,
+                "avg_delay": 18.565217391304348,
+                "comp_time": 0.0004684766133626302,
+                "messages": 40,
+                "fairness": 0.7037315505489967
+            },
+            {
+                "total_cost": 830.5957647266339,
+                "complete_rate": 0.49,
+                "avg_delay": 14.346938775510203,
+                "comp_time": 0.0004964694380760193,
+                "messages": 36,
+                "fairness": 1.2798809468443688
+            },
+            {
+                "total_cost": 944.9366935707343,
+                "complete_rate": 0.46,
+                "avg_delay": 19.08695652173913,
+                "comp_time": 0.0005476554234822591,
+                "messages": 42,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 923.5562954428863,
+                "complete_rate": 0.45,
+                "avg_delay": 15.044444444444444,
+                "comp_time": 0.0005624294281005859,
+                "messages": 36,
+                "fairness": 0.7559289460184544
+            },
+            {
+                "total_cost": 974.1398864117593,
+                "complete_rate": 0.41,
+                "avg_delay": 17.878048780487806,
+                "comp_time": 0.0006206703186035157,
+                "messages": 40,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 783.1774719729508,
+                "complete_rate": 0.5,
+                "avg_delay": 12.7,
+                "comp_time": 0.0004230817159016927,
+                "messages": 43,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 859.2471339060537,
+                "complete_rate": 0.46,
+                "avg_delay": 14.347826086956522,
+                "comp_time": 0.0005106687545776367,
+                "messages": 34,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 756.7932342481256,
+                "complete_rate": 0.4,
+                "avg_delay": 15.85,
+                "comp_time": 0.0004864215850830078,
+                "messages": 33,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 925.9357508793131,
+                "complete_rate": 0.53,
+                "avg_delay": 12.622641509433961,
+                "comp_time": 0.0004684083602007698,
+                "messages": 38,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 771.4667814373946,
+                "complete_rate": 0.43,
+                "avg_delay": 13.767441860465116,
+                "comp_time": 0.0005573961469862196,
+                "messages": 35,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 963.6014665919377,
+                "complete_rate": 0.5,
+                "avg_delay": 17.96,
+                "comp_time": 0.0005135536193847656,
+                "messages": 37,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 884.8581885526,
+                "complete_rate": 0.46,
+                "avg_delay": 15.652173913043478,
+                "comp_time": 0.0006889678813793041,
+                "messages": 41,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 797.4525160803066,
+                "complete_rate": 0.48,
+                "avg_delay": 12.8125,
+                "comp_time": 0.0004966643548780872,
+                "messages": 39,
+                "fairness": 0.9411239481143202
+            },
+            {
+                "total_cost": 943.8359764825057,
+                "complete_rate": 0.52,
+                "avg_delay": 16.057692307692307,
+                "comp_time": 0.00039051600864955355,
+                "messages": 36,
+                "fairness": 1.3557637102737476
+            },
+            {
+                "total_cost": 940.0152784442583,
+                "complete_rate": 0.45,
+                "avg_delay": 17.444444444444443,
+                "comp_time": 0.00042127793835055444,
+                "messages": 34,
+                "fairness": 0.9258200997725514
+            },
+            {
+                "total_cost": 903.643249536788,
+                "complete_rate": 0.46,
+                "avg_delay": 16.543478260869566,
+                "comp_time": 0.00041900911638813635,
+                "messages": 36,
+                "fairness": 1.0327955589886444
+            },
+            {
+                "total_cost": 922.6476426217143,
+                "complete_rate": 0.46,
+                "avg_delay": 16.23913043478261,
+                "comp_time": 0.000435467424063847,
+                "messages": 37,
+                "fairness": 1.162919151265879
+            },
+            {
+                "total_cost": 962.6588705126001,
+                "complete_rate": 0.47,
+                "avg_delay": 16.617021276595743,
+                "comp_time": 0.0005421082178751628,
+                "messages": 37,
+                "fairness": 0.5163977794943222
+            }
+        ],
+        "RL": [
+            {
+                "total_cost": 839.970373156069,
+                "complete_rate": 0.32,
+                "avg_delay": 10.625,
+                "comp_time": 8.31815931532118e-06,
+                "messages": 0,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 836.2031715583405,
+                "complete_rate": 0.33,
+                "avg_delay": 14.878787878787879,
+                "comp_time": 7.903575897216797e-06,
+                "messages": 0,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 1120.8521667619689,
+                "complete_rate": 0.33,
+                "avg_delay": 15.212121212121213,
+                "comp_time": 9.457270304361979e-06,
+                "messages": 0,
+                "fairness": 0.4140393356054125
+            },
+            {
+                "total_cost": 1056.556444658488,
+                "complete_rate": 0.39,
+                "avg_delay": 13.743589743589743,
+                "comp_time": 8.437944495159647e-06,
+                "messages": 0,
+                "fairness": 0.9102589898327995
+            },
+            {
+                "total_cost": 930.7029932731189,
+                "complete_rate": 0.34,
+                "avg_delay": 13.911764705882353,
+                "comp_time": 8.834732903374566e-06,
+                "messages": 0,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 842.8213180969638,
+                "complete_rate": 0.34,
+                "avg_delay": 10.852941176470589,
+                "comp_time": 7.808208465576172e-06,
+                "messages": 0,
+                "fairness": 0.5936168397046637
+            },
+            {
+                "total_cost": 988.2907682742518,
+                "complete_rate": 0.39,
+                "avg_delay": 11.76923076923077,
+                "comp_time": 8.317140432504508e-06,
+                "messages": 0,
+                "fairness": 0.7367883976130072
+            },
+            {
+                "total_cost": 865.8038299563884,
+                "complete_rate": 0.35,
+                "avg_delay": 12.885714285714286,
+                "comp_time": 7.69441778009588e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 881.7636615768728,
+                "complete_rate": 0.36,
+                "avg_delay": 18.0,
+                "comp_time": 9.036064147949218e-06,
+                "messages": 0,
+                "fairness": 0.9856107606091623
+            },
+            {
+                "total_cost": 973.9640316521235,
+                "complete_rate": 0.38,
+                "avg_delay": 16.36842105263158,
+                "comp_time": 7.748603820800781e-06,
+                "messages": 0,
+                "fairness": 0.5163977794943222
+            },
+            {
+                "total_cost": 887.5796187189188,
+                "complete_rate": 0.33,
+                "avg_delay": 14.0,
+                "comp_time": 8.547306060791016e-06,
+                "messages": 0,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 835.7538868491988,
+                "complete_rate": 0.37,
+                "avg_delay": 14.162162162162161,
+                "comp_time": 7.796287536621094e-06,
+                "messages": 0,
+                "fairness": 1.1254628677422756
+            },
+            {
+                "total_cost": 1048.5042602847352,
+                "complete_rate": 0.36,
+                "avg_delay": 15.305555555555555,
+                "comp_time": 9.202957153320313e-06,
+                "messages": 0,
+                "fairness": 0.6324555320336759
+            },
+            {
+                "total_cost": 995.416332526599,
+                "complete_rate": 0.38,
+                "avg_delay": 12.947368421052632,
+                "comp_time": 8.095865664274797e-06,
+                "messages": 0,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 951.0962302549037,
+                "complete_rate": 0.34,
+                "avg_delay": 14.323529411764707,
+                "comp_time": 8.636050754123264e-06,
+                "messages": 0,
+                "fairness": 0.45773770821706344
+            },
+            {
+                "total_cost": 815.5396845699863,
+                "complete_rate": 0.34,
+                "avg_delay": 10.352941176470589,
+                "comp_time": 8.511543273925782e-06,
+                "messages": 0,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 945.9150738229788,
+                "complete_rate": 0.38,
+                "avg_delay": 15.631578947368421,
+                "comp_time": 8.13603401184082e-06,
+                "messages": 0,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 992.1128511681566,
+                "complete_rate": 0.41,
+                "avg_delay": 17.097560975609756,
+                "comp_time": 7.700037073206019e-06,
+                "messages": 0,
+                "fairness": 1.0327955589886444
+            },
+            {
+                "total_cost": 993.4358689761124,
+                "complete_rate": 0.42,
+                "avg_delay": 15.547619047619047,
+                "comp_time": 8.020401000976563e-06,
+                "messages": 0,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 1071.8137433718819,
+                "complete_rate": 0.4,
+                "avg_delay": 15.225,
+                "comp_time": 8.291668362087674e-06,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 1010.2361246404212,
+                "complete_rate": 0.36,
+                "avg_delay": 18.36111111111111,
+                "comp_time": 9.034809313322368e-06,
+                "messages": 0,
+                "fairness": 0.50709255283711
+            },
+            {
+                "total_cost": 1031.796134079107,
+                "complete_rate": 0.41,
+                "avg_delay": 11.585365853658537,
+                "comp_time": 8.243780869704027e-06,
+                "messages": 0,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 929.4025089970861,
+                "complete_rate": 0.36,
+                "avg_delay": 11.777777777777779,
+                "comp_time": 8.083525158110119e-06,
+                "messages": 0,
+                "fairness": 0.828078671210825
+            },
+            {
+                "total_cost": 872.8729036519543,
+                "complete_rate": 0.37,
+                "avg_delay": 12.0,
+                "comp_time": 9.228785832722982e-06,
+                "messages": 0,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 996.338299182616,
+                "complete_rate": 0.38,
+                "avg_delay": 16.42105263157895,
+                "comp_time": 8.296966552734374e-06,
+                "messages": 0,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 925.633400152581,
+                "complete_rate": 0.39,
+                "avg_delay": 11.897435897435898,
+                "comp_time": 7.131825322690218e-06,
+                "messages": 0,
+                "fairness": 0.7367883976130072
+            },
+            {
+                "total_cost": 961.4658489381992,
+                "complete_rate": 0.4,
+                "avg_delay": 13.4,
+                "comp_time": 7.655885484483508e-06,
+                "messages": 0,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 850.1748494583787,
+                "complete_rate": 0.36,
+                "avg_delay": 12.055555555555555,
+                "comp_time": 7.380138744007457e-06,
+                "messages": 0,
+                "fairness": 0.828078671210825
+            },
+            {
+                "total_cost": 872.9812628245717,
+                "complete_rate": 0.35,
+                "avg_delay": 15.342857142857143,
+                "comp_time": 7.82012939453125e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 862.1277999761147,
+                "complete_rate": 0.35,
+                "avg_delay": 13.6,
+                "comp_time": 8.138743313876065e-06,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            }
+        ]
+    },
+    "Fast": {
+        "Hungarian": [
+            {
+                "total_cost": 1158.9994919344388,
+                "complete_rate": 0.408,
+                "avg_delay": 23.455882352941178,
+                "comp_time": 0.0017830103635787964,
+                "messages": 0,
+                "fairness": 3.418437404094784
+            },
+            {
+                "total_cost": 1147.0523265234415,
+                "complete_rate": 0.418,
+                "avg_delay": 18.229665071770334,
+                "comp_time": 0.0017075290927639256,
+                "messages": 0,
+                "fairness": 2.3441924185608345
+            },
+            {
+                "total_cost": 1150.9437881109648,
+                "complete_rate": 0.42,
+                "avg_delay": 20.533333333333335,
+                "comp_time": 0.0016086243447803316,
+                "messages": 0,
+                "fairness": 1.8516401995451028
+            },
+            {
+                "total_cost": 1125.864386736774,
+                "complete_rate": 0.438,
+                "avg_delay": 17.17808219178082,
+                "comp_time": 0.0015966523261297318,
+                "messages": 0,
+                "fairness": 1.6818357317441643
+            },
+            {
+                "total_cost": 1144.1104941238787,
+                "complete_rate": 0.422,
+                "avg_delay": 19.90521327014218,
+                "comp_time": 0.0016927288239260755,
+                "messages": 0,
+                "fairness": 2.433887738538802
+            },
+            {
+                "total_cost": 1145.7092378785217,
+                "complete_rate": 0.41,
+                "avg_delay": 20.66829268292683,
+                "comp_time": 0.0016307074849198505,
+                "messages": 0,
+                "fairness": 2.6636888135137133
+            },
+            {
+                "total_cost": 1145.175759154923,
+                "complete_rate": 0.422,
+                "avg_delay": 20.213270142180093,
+                "comp_time": 0.0017017300535992878,
+                "messages": 0,
+                "fairness": 1.869555587629877
+            },
+            {
+                "total_cost": 1140.2372585997516,
+                "complete_rate": 0.432,
+                "avg_delay": 18.25,
+                "comp_time": 0.0016978542979170636,
+                "messages": 0,
+                "fairness": 2.4142434484888695
+            },
+            {
+                "total_cost": 1148.2609082248216,
+                "complete_rate": 0.408,
+                "avg_delay": 19.92156862745098,
+                "comp_time": 0.002759437303285341,
+                "messages": 0,
+                "fairness": 2.8233718443429607
+            },
+            {
+                "total_cost": 1127.3394349639739,
+                "complete_rate": 0.42,
+                "avg_delay": 19.947619047619046,
+                "comp_time": 0.0014909733547253555,
+                "messages": 0,
+                "fairness": 1.7728105208558367
+            },
+            {
+                "total_cost": 1140.1900840287205,
+                "complete_rate": 0.396,
+                "avg_delay": 19.343434343434343,
+                "comp_time": 0.0016220469533661265,
+                "messages": 0,
+                "fairness": 2.177810171446801
+            },
+            {
+                "total_cost": 1166.4525563117077,
+                "complete_rate": 0.388,
+                "avg_delay": 19.783505154639176,
+                "comp_time": 0.001763793486583082,
+                "messages": 0,
+                "fairness": 2.8652266593628872
+            },
+            {
+                "total_cost": 1150.3106685085695,
+                "complete_rate": 0.42,
+                "avg_delay": 22.10952380952381,
+                "comp_time": 0.001917497107857152,
+                "messages": 0,
+                "fairness": 2.449489742783178
+            },
+            {
+                "total_cost": 1167.999199197649,
+                "complete_rate": 0.37,
+                "avg_delay": 24.410810810810812,
+                "comp_time": 0.0018939843048920502,
+                "messages": 0,
+                "fairness": 2.690370836538197
+            },
+            {
+                "total_cost": 1130.769303455033,
+                "complete_rate": 0.434,
+                "avg_delay": 20.852534562211982,
+                "comp_time": 0.0017613608662675067,
+                "messages": 0,
+                "fairness": 2.799659843283687
+            },
+            {
+                "total_cost": 1145.2899991373426,
+                "complete_rate": 0.426,
+                "avg_delay": 20.389671361502348,
+                "comp_time": 0.0026356359071369414,
+                "messages": 0,
+                "fairness": 2.0770858707058104
+            },
+            {
+                "total_cost": 1145.0018613304069,
+                "complete_rate": 0.398,
+                "avg_delay": 20.537688442211056,
+                "comp_time": 0.0017060011625289917,
+                "messages": 0,
+                "fairness": 2.491891612715892
+            },
+            {
+                "total_cost": 1167.4176108052693,
+                "complete_rate": 0.406,
+                "avg_delay": 21.83743842364532,
+                "comp_time": 0.0018255233764648438,
+                "messages": 0,
+                "fairness": 2.972893411828826
+            },
+            {
+                "total_cost": 1125.725070503588,
+                "complete_rate": 0.414,
+                "avg_delay": 18.17874396135266,
+                "comp_time": 0.0016440885612763554,
+                "messages": 0,
+                "fairness": 1.7808505191139912
+            },
+            {
+                "total_cost": 1124.4806083120625,
+                "complete_rate": 0.458,
+                "avg_delay": 19.903930131004365,
+                "comp_time": 0.0016261583024805243,
+                "messages": 0,
+                "fairness": 2.4043611170022654
+            },
+            {
+                "total_cost": 1133.7457533266938,
+                "complete_rate": 0.42,
+                "avg_delay": 19.8,
+                "comp_time": 0.0015429945553050322,
+                "messages": 0,
+                "fairness": 2.138089935299395
+            },
+            {
+                "total_cost": 1137.4007685570743,
+                "complete_rate": 0.432,
+                "avg_delay": 21.49074074074074,
+                "comp_time": 0.001705943802256643,
+                "messages": 0,
+                "fairness": 2.164651077128664
+            },
+            {
+                "total_cost": 1112.816463865069,
+                "complete_rate": 0.44,
+                "avg_delay": 20.954545454545453,
+                "comp_time": 0.0015694085289450254,
+                "messages": 0,
+                "fairness": 1.7182493859684491
+            },
+            {
+                "total_cost": 1124.750886170303,
+                "complete_rate": 0.446,
+                "avg_delay": 19.367713004484305,
+                "comp_time": 0.0014970918719688158,
+                "messages": 0,
+                "fairness": 1.6846647257229665
+            },
+            {
+                "total_cost": 1154.9002325090123,
+                "complete_rate": 0.42,
+                "avg_delay": 19.65714285714286,
+                "comp_time": 0.0016184245838838465,
+                "messages": 0,
+                "fairness": 2.29906813420444
+            },
+            {
+                "total_cost": 1140.5475812829945,
+                "complete_rate": 0.424,
+                "avg_delay": 20.60377358490566,
+                "comp_time": 0.0016437237521252,
+                "messages": 0,
+                "fairness": 1.4573295865416045
+            },
+            {
+                "total_cost": 1140.4590701525817,
+                "complete_rate": 0.442,
+                "avg_delay": 21.054298642533936,
+                "comp_time": 0.0017710384868440173,
+                "messages": 0,
+                "fairness": 2.1536237457121516
+            },
+            {
+                "total_cost": 1134.9884157298925,
+                "complete_rate": 0.428,
+                "avg_delay": 19.83644859813084,
+                "comp_time": 0.0016527293640890238,
+                "messages": 0,
+                "fairness": 2.6313132697969515
+            },
+            {
+                "total_cost": 1124.823265382491,
+                "complete_rate": 0.448,
+                "avg_delay": 21.477678571428573,
+                "comp_time": 0.0016974713428910956,
+                "messages": 0,
+                "fairness": 1.6676187756655838
+            },
+            {
+                "total_cost": 1131.2501968082556,
+                "complete_rate": 0.432,
+                "avg_delay": 19.412037037037038,
+                "comp_time": 0.0017329126596450806,
+                "messages": 0,
+                "fairness": 2.6403462976338106
+            }
+        ],
+        "Auction": [
+            {
+                "total_cost": 926.3099853454626,
+                "complete_rate": 0.104,
+                "avg_delay": 25.615384615384617,
+                "comp_time": 0.000982634723186493,
+                "messages": 143,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 798.1252184021346,
+                "complete_rate": 0.08,
+                "avg_delay": 24.7,
+                "comp_time": 0.0010524988174438477,
+                "messages": 132,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 1013.5188402657628,
+                "complete_rate": 0.104,
+                "avg_delay": 28.73076923076923,
+                "comp_time": 0.0009383678436279297,
+                "messages": 143,
+                "fairness": 1.1872336794093274
+            },
+            {
+                "total_cost": 1066.350584258147,
+                "complete_rate": 0.104,
+                "avg_delay": 29.596153846153847,
+                "comp_time": 0.00109287231199203,
+                "messages": 143,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 1051.4691637947592,
+                "complete_rate": 0.094,
+                "avg_delay": 30.680851063829788,
+                "comp_time": 0.0010901530583699544,
+                "messages": 140,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 1005.885814064207,
+                "complete_rate": 0.094,
+                "avg_delay": 29.382978723404257,
+                "comp_time": 0.0010603871838799838,
+                "messages": 138,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 968.0119878588453,
+                "complete_rate": 0.1,
+                "avg_delay": 27.88,
+                "comp_time": 0.0009501919601902817,
+                "messages": 140,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 1037.9936478740751,
+                "complete_rate": 0.106,
+                "avg_delay": 27.77358490566038,
+                "comp_time": 0.0009869156461773496,
+                "messages": 146,
+                "fairness": 0.833809387832792
+            },
+            {
+                "total_cost": 862.9823960075751,
+                "complete_rate": 0.096,
+                "avg_delay": 26.166666666666668,
+                "comp_time": 0.0017462748068350334,
+                "messages": 149,
+                "fairness": 1.01418510567422
+            },
+            {
+                "total_cost": 790.4806089165096,
+                "complete_rate": 0.092,
+                "avg_delay": 23.152173913043477,
+                "comp_time": 0.0009328612574824581,
+                "messages": 137,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 899.7978161251812,
+                "complete_rate": 0.1,
+                "avg_delay": 27.92,
+                "comp_time": 0.0009750053286552429,
+                "messages": 143,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 915.4590400633466,
+                "complete_rate": 0.09,
+                "avg_delay": 27.755555555555556,
+                "comp_time": 0.0010112438883100236,
+                "messages": 135,
+                "fairness": 0.6546536707079771
+            },
+            {
+                "total_cost": 980.4539225497458,
+                "complete_rate": 0.1,
+                "avg_delay": 27.42,
+                "comp_time": 0.0009601414203643799,
+                "messages": 142,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 935.6503215521382,
+                "complete_rate": 0.09,
+                "avg_delay": 27.644444444444446,
+                "comp_time": 0.001096963882446289,
+                "messages": 135,
+                "fairness": 0.6546536707079771
+            },
+            {
+                "total_cost": 888.4452822480603,
+                "complete_rate": 0.102,
+                "avg_delay": 23.725490196078432,
+                "comp_time": 0.0010616699854532877,
+                "messages": 143,
+                "fairness": 0.828078671210825
+            },
+            {
+                "total_cost": 1042.906766401091,
+                "complete_rate": 0.11,
+                "avg_delay": 27.672727272727272,
+                "comp_time": 0.0009819780077253068,
+                "messages": 148,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 973.5747828373911,
+                "complete_rate": 0.094,
+                "avg_delay": 28.29787234042553,
+                "comp_time": 0.0009976069132486979,
+                "messages": 137,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 1002.6530260141299,
+                "complete_rate": 0.102,
+                "avg_delay": 28.07843137254902,
+                "comp_time": 0.001001693308353424,
+                "messages": 142,
+                "fairness": 1.121223821162776
+            },
+            {
+                "total_cost": 912.4987779518632,
+                "complete_rate": 0.088,
+                "avg_delay": 26.681818181818183,
+                "comp_time": 0.0011478463808695476,
+                "messages": 136,
+                "fairness": 0.5936168397046637
+            },
+            {
+                "total_cost": 876.6004136255474,
+                "complete_rate": 0.092,
+                "avg_delay": 24.58695652173913,
+                "comp_time": 0.0010708045959472656,
+                "messages": 138,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 1027.6248154906132,
+                "complete_rate": 0.116,
+                "avg_delay": 28.29310344827586,
+                "comp_time": 0.0009699383297482052,
+                "messages": 150,
+                "fairness": 0.8338093878327919
+            },
+            {
+                "total_cost": 1180.367492845324,
+                "complete_rate": 0.106,
+                "avg_delay": 30.71698113207547,
+                "comp_time": 0.0012738193784441268,
+                "messages": 147,
+                "fairness": 0.833809387832792
+            },
+            {
+                "total_cost": 853.8718724170124,
+                "complete_rate": 0.094,
+                "avg_delay": 25.29787234042553,
+                "comp_time": 0.0009431016856226428,
+                "messages": 141,
+                "fairness": 0.8338093878327919
+            },
+            {
+                "total_cost": 955.744002175356,
+                "complete_rate": 0.098,
+                "avg_delay": 29.20408163265306,
+                "comp_time": 0.0010693470637003581,
+                "messages": 142,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 1003.1612933595572,
+                "complete_rate": 0.092,
+                "avg_delay": 30.804347826086957,
+                "comp_time": 0.0011180128370012557,
+                "messages": 138,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 868.4975307269426,
+                "complete_rate": 0.088,
+                "avg_delay": 27.15909090909091,
+                "comp_time": 0.000975191593170166,
+                "messages": 134,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 1087.9309397370066,
+                "complete_rate": 0.104,
+                "avg_delay": 29.96153846153846,
+                "comp_time": 0.0009589460160997179,
+                "messages": 143,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 963.6391868113365,
+                "complete_rate": 0.098,
+                "avg_delay": 31.6734693877551,
+                "comp_time": 0.0011014015443863408,
+                "messages": 142,
+                "fairness": 1.0997835284835873
+            },
+            {
+                "total_cost": 851.6232565648567,
+                "complete_rate": 0.092,
+                "avg_delay": 24.956521739130434,
+                "comp_time": 0.0009508132934570312,
+                "messages": 137,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 920.9798743600867,
+                "complete_rate": 0.094,
+                "avg_delay": 30.48936170212766,
+                "comp_time": 0.0011894173092312282,
+                "messages": 137,
+                "fairness": 0.9154754164341269
+            }
+        ],
+        "CBBA": [
+            {
+                "total_cost": 934.6370314973058,
+                "complete_rate": 0.086,
+                "avg_delay": 26.11627906976744,
+                "comp_time": 0.0008448454049917368,
+                "messages": 108,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 906.1057532308233,
+                "complete_rate": 0.09,
+                "avg_delay": 26.177777777777777,
+                "comp_time": 0.0008542007870144314,
+                "messages": 123,
+                "fairness": 0.7559289460184544
+            },
+            {
+                "total_cost": 885.8200540648236,
+                "complete_rate": 0.094,
+                "avg_delay": 30.340425531914892,
+                "comp_time": 0.0009531645939267915,
+                "messages": 120,
+                "fairness": 0.990430401872025
+            },
+            {
+                "total_cost": 992.8922853858644,
+                "complete_rate": 0.098,
+                "avg_delay": 24.632653061224488,
+                "comp_time": 0.0007269662969252642,
+                "messages": 115,
+                "fairness": 0.9611501047232549
+            },
+            {
+                "total_cost": 884.3967868093007,
+                "complete_rate": 0.09,
+                "avg_delay": 26.91111111111111,
+                "comp_time": 0.0008437633514404297,
+                "messages": 105,
+                "fairness": 0.9258200997725514
+            },
+            {
+                "total_cost": 1000.6416918565709,
+                "complete_rate": 0.1,
+                "avg_delay": 26.9,
+                "comp_time": 0.0008449400624921245,
+                "messages": 134,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 984.7967311839836,
+                "complete_rate": 0.096,
+                "avg_delay": 27.104166666666668,
+                "comp_time": 0.0008551597595214844,
+                "messages": 104,
+                "fairness": 0.8618916073713346
+            },
+            {
+                "total_cost": 992.3009887812609,
+                "complete_rate": 0.1,
+                "avg_delay": 24.66,
+                "comp_time": 0.0008292516072591146,
+                "messages": 105,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 926.1466362150907,
+                "complete_rate": 0.094,
+                "avg_delay": 27.95744680851064,
+                "comp_time": 0.0008833654995622306,
+                "messages": 109,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 809.5953941606535,
+                "complete_rate": 0.088,
+                "avg_delay": 21.795454545454547,
+                "comp_time": 0.0006807701928274972,
+                "messages": 103,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 935.3483056903888,
+                "complete_rate": 0.096,
+                "avg_delay": 25.9375,
+                "comp_time": 0.0007842740704936366,
+                "messages": 109,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 1009.9086984315,
+                "complete_rate": 0.092,
+                "avg_delay": 28.82608695652174,
+                "comp_time": 0.0008727106554754849,
+                "messages": 104,
+                "fairness": 0.8837151016885368
+            },
+            {
+                "total_cost": 1115.5298866267995,
+                "complete_rate": 0.102,
+                "avg_delay": 30.901960784313726,
+                "comp_time": 0.0010147174199422202,
+                "messages": 122,
+                "fairness": 0.9856107606091623
+            },
+            {
+                "total_cost": 944.517820642161,
+                "complete_rate": 0.102,
+                "avg_delay": 28.980392156862745,
+                "comp_time": 0.0010030845115924704,
+                "messages": 120,
+                "fairness": 0.9856107606091623
+            },
+            {
+                "total_cost": 1025.6569322682524,
+                "complete_rate": 0.102,
+                "avg_delay": 25.901960784313726,
+                "comp_time": 0.0009132659796512488,
+                "messages": 110,
+                "fairness": 0.9856107606091623
+            },
+            {
+                "total_cost": 961.5046783146066,
+                "complete_rate": 0.096,
+                "avg_delay": 27.145833333333332,
+                "comp_time": 0.0008927504221598307,
+                "messages": 106,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 1010.4731234986057,
+                "complete_rate": 0.092,
+                "avg_delay": 27.195652173913043,
+                "comp_time": 0.000838168462117513,
+                "messages": 129,
+                "fairness": 0.45773770821706344
+            },
+            {
+                "total_cost": 876.3901914268315,
+                "complete_rate": 0.088,
+                "avg_delay": 24.977272727272727,
+                "comp_time": 0.0007700579507010323,
+                "messages": 132,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 1040.2448473581503,
+                "complete_rate": 0.096,
+                "avg_delay": 30.1875,
+                "comp_time": 0.0008953309828235258,
+                "messages": 105,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 994.8905132908797,
+                "complete_rate": 0.088,
+                "avg_delay": 29.90909090909091,
+                "comp_time": 0.0009519435741283276,
+                "messages": 120,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 930.6668968741168,
+                "complete_rate": 0.1,
+                "avg_delay": 26.38,
+                "comp_time": 0.0007766376842151989,
+                "messages": 150,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 811.4904974006062,
+                "complete_rate": 0.088,
+                "avg_delay": 25.795454545454547,
+                "comp_time": 0.0009322166442871094,
+                "messages": 143,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 1082.6869936804264,
+                "complete_rate": 0.102,
+                "avg_delay": 29.862745098039216,
+                "comp_time": 0.0008977976712313565,
+                "messages": 113,
+                "fairness": 0.7367883976130072
+            },
+            {
+                "total_cost": 955.5086393446288,
+                "complete_rate": 0.096,
+                "avg_delay": 29.041666666666668,
+                "comp_time": 0.0008932987848917644,
+                "messages": 103,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 935.8139498689856,
+                "complete_rate": 0.092,
+                "avg_delay": 26.17391304347826,
+                "comp_time": 0.0008453897067478725,
+                "messages": 108,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 904.404125351311,
+                "complete_rate": 0.096,
+                "avg_delay": 23.625,
+                "comp_time": 0.0007470130920410156,
+                "messages": 110,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 894.1946825350509,
+                "complete_rate": 0.094,
+                "avg_delay": 26.106382978723403,
+                "comp_time": 0.0008429970060076032,
+                "messages": 130,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 925.8637924192774,
+                "complete_rate": 0.084,
+                "avg_delay": 25.571428571428573,
+                "comp_time": 0.0009251055510147759,
+                "messages": 99,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 875.811241625379,
+                "complete_rate": 0.086,
+                "avg_delay": 26.674418604651162,
+                "comp_time": 0.0008892536163330079,
+                "messages": 101,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 992.7358680686641,
+                "complete_rate": 0.09,
+                "avg_delay": 27.2,
+                "comp_time": 0.0007975896199544271,
+                "messages": 108,
+                "fairness": 0.6546536707079771
+            }
+        ],
+        "DBBA": [
+            {
+                "total_cost": 947.2799932457557,
+                "complete_rate": 0.088,
+                "avg_delay": 27.431818181818183,
+                "comp_time": 0.0009968609645448882,
+                "messages": 57,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 755.3848509218201,
+                "complete_rate": 0.082,
+                "avg_delay": 26.73170731707317,
+                "comp_time": 0.0010818195343017577,
+                "messages": 59,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 894.6636522231216,
+                "complete_rate": 0.09,
+                "avg_delay": 27.88888888888889,
+                "comp_time": 0.00100251038869222,
+                "messages": 58,
+                "fairness": 1.0
+            },
+            {
+                "total_cost": 910.4639351279615,
+                "complete_rate": 0.094,
+                "avg_delay": 29.340425531914892,
+                "comp_time": 0.001127210156670932,
+                "messages": 62,
+                "fairness": 1.0600988273786194
+            },
+            {
+                "total_cost": 944.953697055646,
+                "complete_rate": 0.106,
+                "avg_delay": 28.30188679245283,
+                "comp_time": 0.0010657599478056936,
+                "messages": 68,
+                "fairness": 1.245945806357946
+            },
+            {
+                "total_cost": 1095.6792413390579,
+                "complete_rate": 0.102,
+                "avg_delay": 29.705882352941178,
+                "comp_time": 0.0010338811313404756,
+                "messages": 61,
+                "fairness": 0.6324555320336759
+            },
+            {
+                "total_cost": 939.474025729719,
+                "complete_rate": 0.1,
+                "avg_delay": 27.32,
+                "comp_time": 0.0009984076023101807,
+                "messages": 63,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 829.5173137381475,
+                "complete_rate": 0.096,
+                "avg_delay": 25.1875,
+                "comp_time": 0.0010593363216945104,
+                "messages": 69,
+                "fairness": 0.7745966692414834
+            },
+            {
+                "total_cost": 998.1932549853984,
+                "complete_rate": 0.096,
+                "avg_delay": 28.75,
+                "comp_time": 0.0010922590891520182,
+                "messages": 63,
+                "fairness": 0.8618916073713346
+            },
+            {
+                "total_cost": 1052.0908068092644,
+                "complete_rate": 0.116,
+                "avg_delay": 27.517241379310345,
+                "comp_time": 0.0010015037324693468,
+                "messages": 71,
+                "fairness": 1.5055453054181618
+            },
+            {
+                "total_cost": 926.9291569344332,
+                "complete_rate": 0.092,
+                "avg_delay": 24.32608695652174,
+                "comp_time": 0.001014815436469184,
+                "messages": 63,
+                "fairness": 0.45773770821706344
+            },
+            {
+                "total_cost": 954.6612504962897,
+                "complete_rate": 0.088,
+                "avg_delay": 30.818181818181817,
+                "comp_time": 0.0013031164805094402,
+                "messages": 64,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 903.6439183386669,
+                "complete_rate": 0.096,
+                "avg_delay": 25.041666666666668,
+                "comp_time": 0.0009769678115844726,
+                "messages": 61,
+                "fairness": 1.082325538564332
+            },
+            {
+                "total_cost": 736.0028423597648,
+                "complete_rate": 0.082,
+                "avg_delay": 21.365853658536587,
+                "comp_time": 0.000919189453125,
+                "messages": 59,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 988.8549554666021,
+                "complete_rate": 0.09,
+                "avg_delay": 26.844444444444445,
+                "comp_time": 0.001159035242520846,
+                "messages": 68,
+                "fairness": 0.9258200997725514
+            },
+            {
+                "total_cost": 1033.4192726847955,
+                "complete_rate": 0.1,
+                "avg_delay": 31.2,
+                "comp_time": 0.0011147111654281616,
+                "messages": 67,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 903.8893884531202,
+                "complete_rate": 0.092,
+                "avg_delay": 26.47826086956522,
+                "comp_time": 0.0010794145720345633,
+                "messages": 64,
+                "fairness": 0.45773770821706344
+            },
+            {
+                "total_cost": 940.9291307041929,
+                "complete_rate": 0.1,
+                "avg_delay": 25.76,
+                "comp_time": 0.000972159206867218,
+                "messages": 62,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 1023.555926737916,
+                "complete_rate": 0.106,
+                "avg_delay": 28.41509433962264,
+                "comp_time": 0.001089632511138916,
+                "messages": 69,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 684.8745648315709,
+                "complete_rate": 0.092,
+                "avg_delay": 22.434782608695652,
+                "comp_time": 0.0008934859571785763,
+                "messages": 59,
+                "fairness": 0.9611501047232548
+            },
+            {
+                "total_cost": 913.8853030981403,
+                "complete_rate": 0.104,
+                "avg_delay": 24.53846153846154,
+                "comp_time": 0.0009318048303777522,
+                "messages": 62,
+                "fairness": 0.990430401872025
+            },
+            {
+                "total_cost": 1050.0675855787986,
+                "complete_rate": 0.098,
+                "avg_delay": 28.306122448979593,
+                "comp_time": 0.0010576478896602507,
+                "messages": 61,
+                "fairness": 0.7037315505489968
+            },
+            {
+                "total_cost": 998.7499827240441,
+                "complete_rate": 0.104,
+                "avg_delay": 27.76923076923077,
+                "comp_time": 0.0010521188378334045,
+                "messages": 66,
+                "fairness": 0.7432233529572065
+            },
+            {
+                "total_cost": 1021.8615456205588,
+                "complete_rate": 0.102,
+                "avg_delay": 29.470588235294116,
+                "comp_time": 0.001145354906717936,
+                "messages": 66,
+                "fairness": 0.6324555320336759
+            },
+            {
+                "total_cost": 922.7064049441195,
+                "complete_rate": 0.1,
+                "avg_delay": 28.0,
+                "comp_time": 0.0012267783836082177,
+                "messages": 80,
+                "fairness": 1.0465362369445672
+            },
+            {
+                "total_cost": 1065.8163142411765,
+                "complete_rate": 0.102,
+                "avg_delay": 30.098039215686274,
+                "comp_time": 0.0011562455085016067,
+                "messages": 73,
+                "fairness": 0.50709255283711
+            },
+            {
+                "total_cost": 1036.3464750947562,
+                "complete_rate": 0.1,
+                "avg_delay": 28.52,
+                "comp_time": 0.0011774131229945592,
+                "messages": 69,
+                "fairness": 0.9759000729485332
+            },
+            {
+                "total_cost": 842.8144417283147,
+                "complete_rate": 0.09,
+                "avg_delay": 26.022222222222222,
+                "comp_time": 0.0011360359191894532,
+                "messages": 66,
+                "fairness": 1.0
+            },
+            {
+                "total_cost": 942.024665759903,
+                "complete_rate": 0.094,
+                "avg_delay": 30.914893617021278,
+                "comp_time": 0.001193838460104806,
+                "messages": 66,
+                "fairness": 0.990430401872025
+            },
+            {
+                "total_cost": 929.1211307600161,
+                "complete_rate": 0.102,
+                "avg_delay": 27.764705882352942,
+                "comp_time": 0.0009998480478922527,
+                "messages": 64,
+                "fairness": 0.9102589898327995
+            }
+        ],
+        "RL": [
+            {
+                "total_cost": 916.6021963423901,
+                "complete_rate": 0.072,
+                "avg_delay": 18.5,
+                "comp_time": 3.923069347034801e-05,
+                "messages": 0,
+                "fairness": 0.828078671210825
+            },
+            {
+                "total_cost": 1068.275954546555,
+                "complete_rate": 0.07,
+                "avg_delay": 17.37142857142857,
+                "comp_time": 3.92822992234003e-05,
+                "messages": 0,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 1127.084479526753,
+                "complete_rate": 0.08,
+                "avg_delay": 23.9,
+                "comp_time": 3.5474697748819985e-05,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 937.8519866285493,
+                "complete_rate": 0.07,
+                "avg_delay": 20.65714285714286,
+                "comp_time": 3.132555219862196e-05,
+                "messages": 0,
+                "fairness": 0.4879500364742666
+            },
+            {
+                "total_cost": 1021.9072194018682,
+                "complete_rate": 0.076,
+                "avg_delay": 20.710526315789473,
+                "comp_time": 3.241456073263417e-05,
+                "messages": 0,
+                "fairness": 0.9154754164341269
+            },
+            {
+                "total_cost": 1176.1298291285289,
+                "complete_rate": 0.08,
+                "avg_delay": 17.425,
+                "comp_time": 3.441174825032552e-05,
+                "messages": 0,
+                "fairness": 0.7237468644557459
+            },
+            {
+                "total_cost": 1156.2110917183506,
+                "complete_rate": 0.082,
+                "avg_delay": 18.317073170731707,
+                "comp_time": 3.057259779710036e-05,
+                "messages": 0,
+                "fairness": 0.7988086367179802
+            },
+            {
+                "total_cost": 991.5030254119566,
+                "complete_rate": 0.072,
+                "avg_delay": 18.52777777777778,
+                "comp_time": 3.2901763916015625e-05,
+                "messages": 0,
+                "fairness": 0.7367883976130072
+            },
+            {
+                "total_cost": 1150.430153739937,
+                "complete_rate": 0.086,
+                "avg_delay": 14.69767441860465,
+                "comp_time": 3.070301479763455e-05,
+                "messages": 0,
+                "fairness": 0.8338093878327919
+            },
+            {
+                "total_cost": 1093.1522952431772,
+                "complete_rate": 0.082,
+                "avg_delay": 20.048780487804876,
+                "comp_time": 3.0723485079678625e-05,
+                "messages": 0,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 1090.1011675359057,
+                "complete_rate": 0.086,
+                "avg_delay": 13.976744186046512,
+                "comp_time": 3.131798335484096e-05,
+                "messages": 0,
+                "fairness": 0.8338093878327919
+            },
+            {
+                "total_cost": 1068.282475848387,
+                "complete_rate": 0.07,
+                "avg_delay": 15.114285714285714,
+                "comp_time": 3.322802091899671e-05,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 1002.5702865521519,
+                "complete_rate": 0.072,
+                "avg_delay": 20.055555555555557,
+                "comp_time": 3.0088424682617188e-05,
+                "messages": 0,
+                "fairness": 0.6324555320336759
+            },
+            {
+                "total_cost": 1053.2101014245375,
+                "complete_rate": 0.066,
+                "avg_delay": 18.545454545454547,
+                "comp_time": 3.499143263872932e-05,
+                "messages": 0,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 997.1483547708851,
+                "complete_rate": 0.082,
+                "avg_delay": 16.317073170731707,
+                "comp_time": 2.7826854160853793e-05,
+                "messages": 0,
+                "fairness": 0.7988086367179803
+            },
+            {
+                "total_cost": 1001.1082754376968,
+                "complete_rate": 0.08,
+                "avg_delay": 21.05,
+                "comp_time": 3.238346265709919e-05,
+                "messages": 0,
+                "fairness": 0.816496580927726
+            },
+            {
+                "total_cost": 992.774858269529,
+                "complete_rate": 0.074,
+                "avg_delay": 11.675675675675675,
+                "comp_time": 3.019623134447181e-05,
+                "messages": 0,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 964.2908827828545,
+                "complete_rate": 0.068,
+                "avg_delay": 15.352941176470589,
+                "comp_time": 3.0304256238435445e-05,
+                "messages": 0,
+                "fairness": 0.45773770821706344
+            },
+            {
+                "total_cost": 992.9958338652485,
+                "complete_rate": 0.078,
+                "avg_delay": 18.05128205128205,
+                "comp_time": 2.9851992925008137e-05,
+                "messages": 0,
+                "fairness": 0.9102589898327995
+            },
+            {
+                "total_cost": 1131.4099707501925,
+                "complete_rate": 0.084,
+                "avg_delay": 22.952380952380953,
+                "comp_time": 3.2736704899714546e-05,
+                "messages": 0,
+                "fairness": 0.6761234037828132
+            },
+            {
+                "total_cost": 1011.9811757221044,
+                "complete_rate": 0.076,
+                "avg_delay": 18.86842105263158,
+                "comp_time": 3.212431202764096e-05,
+                "messages": 0,
+                "fairness": 0.5163977794943222
+            },
+            {
+                "total_cost": 849.84178273692,
+                "complete_rate": 0.072,
+                "avg_delay": 12.86111111111111,
+                "comp_time": 2.6559829711914064e-05,
+                "messages": 0,
+                "fairness": 0.7367883976130072
+            },
+            {
+                "total_cost": 1020.419876088687,
+                "complete_rate": 0.074,
+                "avg_delay": 16.864864864864863,
+                "comp_time": 3.0481815338134764e-05,
+                "messages": 0,
+                "fairness": 0.6399404734221844
+            },
+            {
+                "total_cost": 981.670591865374,
+                "complete_rate": 0.08,
+                "avg_delay": 16.8,
+                "comp_time": 3.0579774276069976e-05,
+                "messages": 0,
+                "fairness": 0.8997354108424374
+            },
+            {
+                "total_cost": 1135.4211615992665,
+                "complete_rate": 0.076,
+                "avg_delay": 18.63157894736842,
+                "comp_time": 3.354115919633345e-05,
+                "messages": 0,
+                "fairness": 0.5163977794943222
+            },
+            {
+                "total_cost": 909.7953433590376,
+                "complete_rate": 0.074,
+                "avg_delay": 16.08108108108108,
+                "comp_time": 2.811266028362772e-05,
+                "messages": 0,
+                "fairness": 0.5163977794943222
+            },
+            {
+                "total_cost": 1163.1112799187176,
+                "complete_rate": 0.078,
+                "avg_delay": 14.35897435897436,
+                "comp_time": 3.192735754925272e-05,
+                "messages": 0,
+                "fairness": 0.6324555320336759
+            },
+            {
+                "total_cost": 1023.5275557811777,
+                "complete_rate": 0.082,
+                "avg_delay": 20.634146341463413,
+                "comp_time": 3.218650817871094e-05,
+                "messages": 0,
+                "fairness": 0.5936168397046637
+            },
+            {
+                "total_cost": 1085.4520146626726,
+                "complete_rate": 0.07,
+                "avg_delay": 20.257142857142856,
+                "comp_time": 3.3208302089146203e-05,
+                "messages": 0,
+                "fairness": 0.6172133998483676
+            },
+            {
+                "total_cost": 1061.8998128812955,
+                "complete_rate": 0.074,
+                "avg_delay": 15.135135135135135,
+                "comp_time": 3.225907035495924e-05,
+                "messages": 0,
+                "fairness": 0.5163977794943222
+            }
+        ]
+    }
+}
