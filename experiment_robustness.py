@@ -37,15 +37,15 @@ from agents import Agent
 from algorithms.hungarian import HungarianAlgorithm
 from algorithms.auction import AuctionAlgorithm
 from algorithms.cbba import CBBAAlgorithm
-from algorithms.dbba import DBBAAlgorithm
+from algorithms.auctionPlus2Opt import AuctionPlus2Opt
 from algorithms.rl_method import RLAlgorithm
 
 # -------------------------
 # 辅助函数
-# -------------------------
-def initialize_agents_with_failure(num_agents):
-    """生成代理，并增加状态字段用于故障模拟。"""
-    agents = []
+    # -------------------------
+    def initialize_agents_with_failure(num_agents):
+        """生成代理，并增加状态字段用于故障模拟。"""
+        agents = []
     for i in range(num_agents):
         loc = (np.random.rand() * 100, np.random.rand() * 100)
         agent = Agent(agent_id=i, location=loc, speed=1.0, agent_type=None)
@@ -175,7 +175,7 @@ def main():
         "Hungarian": HungarianAlgorithm(),
         "Auction": AuctionAlgorithm(),
         "CBBA": CBBAAlgorithm(),
-        "DBBA": DBBAAlgorithm(),
+        "DBBA": AuctionPlus2Opt(),
         "RL": RLAlgorithm()
     }
     
