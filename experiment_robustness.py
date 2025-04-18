@@ -259,8 +259,8 @@ def main():
             ax.set_title(title)
             ax.set_xticks(range(len(alg_names)))
             ax.set_xticklabels(alg_names, rotation=45, ha="right")
-        plt.suptitle(f"Robustness Scenario - {sc_name}")
-        plt.tight_layout(rect=[0, 0.03, 1, 0.95])
+        # plt.suptitle(f"Robustness Scenario - {sc_name}")
+        plt.tight_layout(rect=[0, 0, 1, 1])
         plt.savefig(f"results/robustness_{sc_name}.pdf")
         plt.close()
 

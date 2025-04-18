@@ -193,7 +193,7 @@ def main():
             ax.set_title(title)
             ax.set_xticklabels(algs, rotation=45, ha="right")
         note = (
-            "Note: Hungarian, ε‑Auction, AuctionPlus2Opt are offline batch algorithms; "
+            "Note: Hungarian, ε-Auction, AuctionPlus2Opt are offline batch algorithms; "
             "they can be rerun at each time step."
         )
         fig.text(0.5, 0.01, note, ha="center", fontsize=8)
