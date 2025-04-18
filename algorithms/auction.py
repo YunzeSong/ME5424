@@ -1,22 +1,37 @@
-import numpy as np
 import time
+
+import numpy as np
+
 from algorithms.base import TaskAllocationAlgorithm
+
 
 class AuctionAlgorithm(TaskAllocationAlgorithm):
     """
-    拍卖算法实现（Bertsekas 拍卖法，可视为中心化迭代竞价过程）。
+    Bertsekas auction
     增加了最大迭代次数限制，防止因无法收敛而出现死循环。
     """
+
     def __init__(self, epsilon=1e-3, max_iterations=100):
         super().__init__()
-        self.epsilon = epsilon  # 微小增量，保证收敛
+        self.epsilon = epsilon
         self.max_iterations = max_iterations
 
     def assign_tasks(self, tasks, agents, current_time=0):
         start_time = time.time()
-        free_agents = [agent for agent in agents if (not agent.busy and not getattr(agent, 'failed', False))]
-        available_tasks = [task for task in tasks if (not task.assigned and not task.completed 
-                                                     and task.release_time <= current_time)]
+        free_agents = [
+            agent
+            for agent in agents
+            if (not agent.busy and not getattr(agent, "failed", False))
+        ]
+        available_tasks = [
+            task
+            for task in tasks
+            if (
+                not task.assigned
+                and not task.completed
+                and task.release_time <= current_time
+            )
+        ]
         nA = len(free_agents)
         nT = len(available_tasks)
         if nA == 0 or nT == 0:
@@ -48,7 +63,9 @@ class AuctionAlgorithm(TaskAllocationAlgorithm):
             j_best = int(np.nanargmax(utilities))
             best_utility = utilities[j_best]
             utilities[j_best] = -np.inf
-            second_best = np.nanmax(utilities) if np.any(utilities != -np.inf) else -np.inf
+            second_best = (
+                np.nanmax(utilities) if np.any(utilities != -np.inf) else -np.inf
+            )
             if second_best == -np.inf:
                 increment = self.epsilon
             else:
@@ -57,7 +74,9 @@ class AuctionAlgorithm(TaskAllocationAlgorithm):
             task = available_tasks[j_best]
             prev_agent_id = task_to_agent.get(task.id)
             if prev_agent_id is not None:
-                prev_agent = next((a for a in free_agents if a.id == prev_agent_id), None)
+                prev_agent = next(
+                    (a for a in free_agents if a.id == prev_agent_id), None
+                )
                 if prev_agent is not None:
                     unassigned_agents.append(prev_agent)
                     agent_to_task[prev_agent.id] = None
@@ -65,7 +84,9 @@ class AuctionAlgorithm(TaskAllocationAlgorithm):
             task_to_agent[task.id] = agent.id
             message_count += 1
         if iter_count >= self.max_iterations:
-            print("Warning: AuctionAlgorithm reached max iterations without full convergence.")
+            print(
+                "Warning: AuctionAlgorithm reached max iterations without full convergence."
+            )
         assignments = []
         for agent_id, task_id in agent_to_task.items():
             if task_id is not None:
